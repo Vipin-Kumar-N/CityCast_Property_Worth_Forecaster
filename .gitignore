@@ -2,4 +2,4 @@
 *.log
 # ignore ALL files in ANY directory named temp
 temp/
-HousePricePredictor\ProjectFiles\NoteBook\.ipynb_checkpoints"
+HousePricePredictor\ProjectFiles\NoteBook\.ipynb_checkpoints

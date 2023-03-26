@@ -2,4 +2,6 @@
 *.log
 # ignore ALL files in ANY directory named temp
 temp/
+.idea/
 HousePricePredictor/ProjectFiles/NoteBook/.ipynb_checkpoints/
+HousePricePredictor/ProjectFiles/UI/.idea/

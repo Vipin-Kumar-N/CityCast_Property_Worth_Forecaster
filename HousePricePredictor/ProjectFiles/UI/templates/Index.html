@@ -37,15 +37,15 @@
               </div>
               <div class="col-md-6 form-group" style="text-align: center">
                 <label><b>Enter BHK:</b></label>
-                <input type="text" class="form-control" id="bhk" name="bhk" placeholder="Enter BHK">
+                <input type="text" class="form-control" id="bhk" name="bhk" placeholder="Enter BHK" required="1">
               </div>
               <div class="col-md-6 form-group" style="text-align: center">
                 <label><b>Enter Bathroom:</b></label>
-                <input type="text" class="form-control" id="Bath" name="Bath" placeholder="No.of Bathroom">
+                <input type="text" class="form-control" id="bath" name="bath" placeholder="No.of Bathroom" required="1">
               </div>
               <div class="col-md-6 form-group" style="text-align: center">
                 <label><b>Total Square feet</b></label>
-                <input type="text" class="form-control" id="Sqft" name="Sqft" placeholder="Sq.ft">
+                <input type="text" class="form-control" id="sqft" name="sqft" placeholder="Sq.ft" required="1">
               </div>
               <div class="col-md-12 form-group">
               <button class="btn btn-primary form-control" onclick="send_Data()">Predict Price</button>
@@ -60,13 +60,30 @@
       </div>
     </div>
     <script>
-      function form_handler(event)
-      {
+      function form_handler(event){
         event.preventDefault(); //Submission of form is suppressed
       }
+
       function send_Data()
       {
         document.querySelector('form').addEventListener("submit",form_handler);
+
+        var fd=new FormData(document.querySelector('form'));
+
+        var xhr=new XMLHttpRequest();
+        
+        xhr.open('POST','/predict',true);
+
+        document.getElementById('prediction').innerHTML = "Wait Predicting Price...."; //Shows the message when the server is slow
+
+        xhr.onreadystatechange = function(){
+          if(xhr.readyState == XMLHttpRequest.DONE){
+            document.getElementById('prediction').innerHTML="Prediction: Rs."+xhr.responseText;
+          }
+        };
+
+        xhr.onload = function(){};
+        xhr.send(fd);
       }
     </script>
   </body>

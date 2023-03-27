@@ -47,16 +47,27 @@
                 <label><b>Total Square feet</b></label>
                 <input type="text" class="form-control" id="Sqft" name="Sqft" placeholder="Sq.ft">
               </div>
-              <div class="col-md-12 form-group" style="">
+              <div class="col-md-12 form-group">
               <button class="btn btn-primary form-control" onclick="send_Data()">Predict Price</button>
               </button></div>
             </div>
           </form>
           <br>
           <div class="col-md-12" style="text-align: center">
-          <h3><span id="prediction"></span></h3></div>
+            <h3><span id="prediction"></span></h3>
+          </div>
         </div>
       </div>
     </div>
+    <script>
+      function form_handler(event)
+      {
+        event.preventDefault(); //Submission of form is suppressed
+      }
+      function send_Data()
+      {
+        document.querySelector('form').addEventListener("submit",form_handler);
+      }
+    </script>
   </body>
 </html>

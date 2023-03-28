@@ -25,7 +25,7 @@ def predict():
     dat = pd.DataFrame([[locations, totalsqft, bath, bhk]], columns=['location', 'total_sqft', 'bath', 'bhk'])
     prediction = pipe.predict(dat)[0] * 1e5
 
-    return str(np.round(prediction,2))
+    return str(np.round(prediction, 2))
 
 
 if __name__ == "__main__":

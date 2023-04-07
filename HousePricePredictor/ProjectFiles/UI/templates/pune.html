@@ -30,7 +30,7 @@
               <div class="col-md-6 form-group" style="text-align: center">
                 <label><b>Select Location:</b></label>
                 <select class="selectpicker form-control" name="location" id="Location" required="1">
-                  {% for location in punelocations %}
+                  {% for location in locations %}
                   <option value="{{ location }}">{{ location }}</option>
                   {% endfor %}
                 </select>
@@ -72,7 +72,7 @@
 
         var xhr=new XMLHttpRequest();
         
-        xhr.open('POST','/pune_predict',true);
+        xhr.open('POST','/predict',true);
 
         document.getElementById('prediction').innerHTML = "Wait Predicting Price...."; //Shows the message when the server is slow
 

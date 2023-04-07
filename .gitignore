@@ -3,5 +3,7 @@
 # ignore ALL files in ANY directory named temp
 temp/
 .idea/
+.ipynb_checkpoints/
 HousePricePredictor/ProjectFiles/NoteBook/.ipynb_checkpoints/
 HousePricePredictor/ProjectFiles/UI/.idea/
+HousePricePredictor/ProjectFiles/NoteBook/Pune/.ipynb_checkpoints/

@@ -409,7 +409,7 @@ Plot  Area,Ready To Move,4 Bedroom,,1200,2,0,125,Erandwane
 Super built-up  Area,Ready To Move,3 BHK,PhestOn,2390,3,2,410,Fatima Nagar
 Super built-up  Area,19-Jan,7 BHK,,12000,6,3,2200,Fergusson College Road
 Plot  Area,Ready To Move,2 Bedroom,,550,1,1,62,Ganesh Peth
-Super built-up  Area,Ready To Move,1 BHK,,34.46Sq. Meter,1,0,18.5,Ganeshkhind
+Super built-up  Area,Ready To Move,1 BHK,,34.46,1,0,18.5,Ganeshkhind
 Super built-up  Area,Ready To Move,2 BHK,Hoxiaa ,1185,2,,38,Ghorpade Peth
 Super built-up  Area,Ready To Move,2 BHK,VBvenal,750,2,1,38,Ghorpadi
 Plot  Area,Ready To Move,6 Bedroom,,1200,7,3,250,Gokhale Nagar
@@ -647,7 +647,7 @@ Super built-up  Area,Ready To Move,2 BHK,,1180,2,3,80,Pirangut
 Super built-up  Area,Ready To Move,2 BHK,,1194,2,2,47,Prabhat Road
 Super built-up  Area,Ready To Move,3 BHK,,1500,2,2,62,Pune Railway Station
 Super built-up  Area,Ready To Move,2 BHK,,1160,2,2,52.2,Rasta Peth
-Built-up  Area,Ready To Move,9 Bedroom,,4125Perch,9,,265,Raviwar Peth
+Built-up  Area,Ready To Move,9 Bedroom,,4125,9,,265,Raviwar Peth
 Super built-up  Area,Ready To Move,3 BHK,Taonte ,2378,3,1,262,Sadashiv Peth
 Super built-up  Area,Ready To Move,2 BHK,Ahownve,1128,2,1,60,Sahakar Nagar
 Super built-up  Area,Ready To Move,3 BHK,Cevely ,1500,3,1,150,Salunke Vihar
@@ -774,7 +774,7 @@ Super built-up  Area,Ready To Move,2 BHK,Prodsth,820,2,1,30,Aundh
 Super built-up  Area,20-Dec,2 BHK,Brens7 ,1160 - 1195,2,0,59.935,Aundh Road
 Super built-up  Area,Ready To Move,3 BHK,PaontWa,1779,3,2,89.61,Balaji Nagar
 Built-up  Area,Ready To Move,2 BHK,HMRWAyo,1105,2,2,58,Baner
-Built-up  Area,Ready To Move,1 BHK,,1000Sq. Meter,2,1,93,Baner road
+Built-up  Area,Ready To Move,1 BHK,,1000,2,1,93,Baner road
 Super built-up  Area,Ready To Move,3 BHK,UKkente,1650,3,2,60,Bhandarkar Road
 Super built-up  Area,Ready To Move,2 BHK,Tahtsla,1694,2,2,150,Bhavani Peth
 Super built-up  Area,Ready To Move,3 BHK,Taonte ,2376,3,1,203,Bibvewadi
@@ -871,7 +871,7 @@ Super built-up  Area,Ready To Move,2 BHK,LVniaar,1225,2,1,46.55,Aundh Road
 Super built-up  Area,18-Apr,2 BHK,Prarkun,1342,2,1,73.3,Balaji Nagar
 Built-up  Area,19-Dec,2 BHK,,1345,2,1,67,Baner
 Built-up  Area,Ready To Move,3 BHK,Shyas S,1320,3,0,65,Baner road
-Super built-up  Area,Ready To Move,2 BHK,,1100Sq. Yards,2,,45,Bhandarkar Road
+Super built-up  Area,Ready To Move,2 BHK,,1100,2,,45,Bhandarkar Road
 Super built-up  Area,Ready To Move,2 BHK,GrrvaGr,1140,2,1,49.39,Bhavani Peth
 Super built-up  Area,Ready To Move,2 BHK,Sancy L,1300,2,1,50,Bibvewadi
 Super built-up  Area,Ready To Move,3 BHK,,1652,3,2,85,Bopodi
@@ -1399,7 +1399,7 @@ Super built-up  Area,Ready To Move,2 BHK,Prianhi,850,2,1,25,Mahatma Gandhi Road
 Built-up  Area,Ready To Move,2 BHK,Prncyrn,1197,2,1,84,Mangalwar peth
 Super built-up  Area,Ready To Move,4 BHK,ETntsce,3500,3,3,450,Manik Bagh
 Super built-up  Area,Ready To Move,2 BHK,,920,2,2,39.55,Market yard
-Super built-up  Area,Ready To Move,9 BHK,,716Sq. Meter,9,1,296,Model colony
+Super built-up  Area,Ready To Move,9 BHK,,716,9,1,296,Model colony
 Super built-up  Area,Ready To Move,2 BHK,i1rtsCo,1105,2,1,65,Mukund Nagar
 Super built-up  Area,Ready To Move,3 BHK,GoandAc,1850,3,3,100,Mundhawa
 Super built-up  Area,20-Dec,3 BHK,PrarePa,1300,3,1,64,Nagar Road
@@ -1711,7 +1711,7 @@ Built-up  Area,Ready To Move,3 BHK,NDrelau,1600,3,3,75,Sasson Road
 Super built-up  Area,Ready To Move,3 BHK,GaicaVe,1750,3,2,84,Satara Road
 Super built-up  Area,18-Nov,2 BHK,,1125,2,2,62,Senapati Bapat Road
 Plot  Area,Ready To Move,4 Bedroom,,2200,4,3,235,Shaniwar Peth
-Plot  Area,Ready To Move,3 Bedroom,CoiewSy,1500Sq. Meter,3,1,95,Shivaji Nagar
+Plot  Area,Ready To Move,3 Bedroom,CoiewSy,1500,3,1,95,Shivaji Nagar
 Built-up  Area,Ready To Move,3 BHK,Peentn ,2800,2,0,200,Shukrawar Peth
 Plot  Area,Ready To Move,2 Bedroom,,1200,2,1,120,Sinhagad Road
 Built-up  Area,Ready To Move,2 BHK,Riave E,1000,2,1,50,Somwar Peth
@@ -1742,7 +1742,7 @@ Super built-up  Area,Ready To Move,3 BHK,SNity S,1460,2,2,72,Bibvewadi
 Plot  Area,18-Dec,3 Bedroom,,1200,3,2,68.5,Bopodi
 Super built-up  Area,Ready To Move,1 BHK,,1200,1,1,48,Budhwar Peth
 Super built-up  Area,Ready To Move,3 BHK,,912,2,1,39,Bund Garden Road
-Super built-up  Area,19-Mar,3 BHK,Sosisic,142.61Sq. Meter,3,1,115,Camp
+Super built-up  Area,19-Mar,3 BHK,Sosisic,142.61,3,1,115,Camp
 Plot  Area,Ready To Move,5 Bedroom,,2400,5,1,625,Chandan Nagar
 Plot  Area,Ready To Move,4 Bedroom,Prigh L,2028,4,3,162,Dapodi
 Super built-up  Area,19-Apr,2 BHK,Brama P,980,2,1,45.47,Deccan Gymkhana
@@ -1820,7 +1820,7 @@ Super built-up  Area,17-Nov,3 BHK,,1167,2,2,39.98,Wadgaon Sheri
 Super built-up  Area,18-May,2 BHK,SSestth,1035,2,1,41.73,Viman Nagar
 Super built-up  Area,Ready To Move,3 BHK,,1188,2,2,38,Vishrant Wadi
 Plot  Area,Ready To Move,5 Bedroom,,1200,4,2,285,Wagholi
-Plot  Area,Ready To Move,3 Bedroom,Inensba,1574Sq. Yards,3,1,76,Wakadewadi
+Plot  Area,Ready To Move,3 Bedroom,Inensba,1574,3,1,76,Wakadewadi
 Super built-up  Area,Ready To Move,1 BHK,MaentNa,884,2,2,36,Wanowrie
 Super built-up  Area,Ready To Move,2 BHK,,1194,2,2,46,Warje
 Super built-up  Area,19-Dec,2 BHK,Caycend,1026,2,1,60.87,Yerawada
@@ -2309,7 +2309,7 @@ Super built-up  Area,Ready To Move,4 BHK,Prtanha,3122,6,2,245,Ambegaon Budruk
 Super built-up  Area,Ready To Move,2 BHK,Prncyrn,1290,2,1,85,Anandnagar
 Built-up  Area,Ready To Move,3 BHK,,2300,3,,80,Aundh
 Built-up  Area,Ready To Move,4 Bedroom,,3000,4,0,200,Aundh Road
-Super built-up  Area,Ready To Move,4 BHK,Haestt ,361.33Sq. Yards,4,,270,Balaji Nagar
+Super built-up  Area,Ready To Move,4 BHK,Haestt ,361.33,4,,270,Balaji Nagar
 Built-up  Area,Ready To Move,1 BHK,,400,1,0,14,Baner
 Super built-up  Area,Ready To Move,3 BHK,,1340,2,3,53.6,Baner road
 Super built-up  Area,Ready To Move,2 BHK,SrntsRV,900,2,1,95,Bhandarkar Road
@@ -2880,7 +2880,7 @@ Built-up  Area,Ready To Move,2 BHK,,965,2,1,45,Wakadewadi
 Plot  Area,Ready To Move,5 Bedroom,,1600,5,2,140,Wanowrie
 Super built-up  Area,Ready To Move,2 BHK,,1070,2,1,42.79,Warje
 Built-up  Area,Ready To Move,3 BHK,Spensas,1570,2,2,65,Yerawada
-Built-up  Area,Ready To Move,2 BHK,PSterAs,117Sq. Yards,2,2,38,Alandi Road
+Built-up  Area,Ready To Move,2 BHK,PSterAs,117,2,2,38,Alandi Road
 Super built-up  Area,Ready To Move,2 BHK,NianaKe,780,2,2,25,Ambegaon Budruk
 Super built-up  Area,Ready To Move,3 BHK,,1000,2,1,65,Anandnagar
 Plot  Area,Ready To Move,4 Bedroom,,1200,3,2,188,Aundh
@@ -3227,7 +3227,7 @@ Built-up  Area,18-Jun,1 BHK,,905,1,1,55,Market yard
 Built-up  Area,Ready To Move,2 BHK,AnazaPl,1069,2,,55,Model colony
 Super built-up  Area,19-Aug,2 BHK,,829,2,1,22.8,Mukund Nagar
 Built-up  Area,Ready To Move,2 BHK,Proodt ,1900,2,1,200,Mundhawa
-Built-up  Area,Ready To Move,5 Bedroom,,3040Sq. Meter,5,1,140,Nagar Road
+Built-up  Area,Ready To Move,5 Bedroom,,3040,5,1,140,Nagar Road
 Built-up  Area,Ready To Move,3 BHK,MJinele,1300,3,2,60,Nana Peth
 Super built-up  Area,Ready To Move,2 BHK,Unm 2El,1115,2,1,33.45,Narayan Peth
 Super built-up  Area,Ready To Move,3 BHK,PhestOn,2409,3,2,360,Narayangaon
@@ -3284,7 +3284,7 @@ Super built-up  Area,Ready To Move,3 BHK,Sorisa ,1672,3,2,150,Dapodi
 Plot  Area,Ready To Move,5 Bedroom,,2800,5,2,125,Deccan Gymkhana
 Super built-up  Area,Ready To Move,3 BHK,,1500,2,2,65,Dehu Road
 Super built-up  Area,Ready To Move,2 BHK,,1400,2,2,65,Dhankawadi
-Plot  Area,18-May,4 Bedroom,Prtates,500Sq. Yards,4,2,378,Dhayari Phata
+Plot  Area,18-May,4 Bedroom,Prtates,500,4,2,378,Dhayari Phata
 Built-up  Area,Ready To Move,4 Bedroom,,2700,4,2,130,Dhole Patil Road
 Super built-up  Area,18-May,2 BHK,SSestth,920,2,1,37.46,Erandwane
 Plot  Area,18-Feb,3 Bedroom,Cetattu,1200,3,2,70,Fatima Nagar
@@ -4112,7 +4112,7 @@ Super built-up  Area,Ready To Move,3 BHK,,1436,3,3,70,Sasson Road
 Super built-up  Area,Ready To Move,4 BHK,PueraRi,4000,4,3,220,Satara Road
 Built-up  Area,Ready To Move,3 BHK,ManceEl,2372,3,,140,Senapati Bapat Road
 Plot  Area,Ready To Move,6 Bedroom,,1500,6,,240,Shaniwar Peth
-Super built-up  Area,18-Jan,3 BHK,,167Sq. Meter,3,2,10,Shivaji Nagar
+Super built-up  Area,18-Jan,3 BHK,,167,3,2,10,Shivaji Nagar
 Plot  Area,Ready To Move,2 Bedroom,,1200,2,0,150,Shukrawar Peth
 Super built-up  Area,18-Mar,2 BHK,,1016,2,1,58,Sinhagad Road
 Super built-up  Area,Ready To Move,2 BHK,,1100,2,2,48,Somwar Peth
@@ -4292,7 +4292,7 @@ Super built-up  Area,Ready To Move,1 BHK,VSlistr,540 - 670,1,0,41.745,Padmavati
 Super built-up  Area,Ready To Move,2 BHK,NStusD ,1153,2,1,65,Parvati Darshan
 Plot  Area,Ready To Move,2 Bedroom,,2080,2,1,150,Pashan
 Super built-up  Area,Ready To Move,2 BHK,RatosAr,1255,2,2,69,Paud Road
-Built-up  Area,Ready To Move,4 BHK,,315Sq. Yards,5,,260,Pirangut
+Built-up  Area,Ready To Move,4 BHK,,315,5,,260,Pirangut
 Super built-up  Area,Ready To Move,3 BHK,PueraRi,1583,3,3,109,Prabhat Road
 Super built-up  Area,Ready To Move,2 BHK,Goourta,1505,2,2,90,Pune Railway Station
 Super built-up  Area,Ready To Move,3 BHK,,1365,2,2,75.08,Rasta Peth
@@ -5536,7 +5536,7 @@ Super built-up  Area,18-Dec,3 BHK,Magiaya,1255,3,2,77.68,Nana Peth
 Plot  Area,Ready To Move,6 Bedroom,,840,8,0,120,Narayan Peth
 Super built-up  Area,Ready To Move,2 BHK,Prcesvy,1198,2,1,82,Narayangaon
 Plot  Area,Ready To Move,3 Bedroom,,1200,3,1,160,Navi Peth
-Built-up  Area,Ready To Move,3 BHK,CaaveEn,188.89Sq. Yards,3,1,180,Padmavati
+Built-up  Area,Ready To Move,3 BHK,CaaveEn,188.89,3,1,180,Padmavati
 Built-up  Area,Ready To Move,4 Bedroom,V2gesre,2600,3,1,95,Parvati Darshan
 Super built-up  Area,Ready To Move,3 BHK,Prtanha,2072,4,2,139,Pashan
 Super built-up  Area,Ready To Move,2 BHK,Shvarji,797,2,1,32,Paud Road
@@ -5630,7 +5630,7 @@ Super built-up  Area,18-Jan,2 BHK,Prersis,1138,2,1,110,Mundhawa
 Built-up  Area,Ready To Move,3 Bedroom,Adntsra,2556,3,2,169,Nagar Road
 Super built-up  Area,18-May,3 BHK,,1200,2,0,66.5,Nana Peth
 Super built-up  Area,Ready To Move,2 BHK,,1200,2,2,37,Narayan Peth
-Super built-up  Area,Ready To Move,3 BHK,Soitya ,204Sq. Meter,4,2,185,Narayangaon
+Super built-up  Area,Ready To Move,3 BHK,Soitya ,204,4,2,185,Narayangaon
 Plot  Area,19-Jan,2 Bedroom,,1200,1,1,36,Navi Peth
 Super built-up  Area,19-Jun,3 BHK,VaiteEx,1870,3,2,138,Padmavati
 Super built-up  Area,18-May,2 BHK,Prcesvy,1199,2,1,86,Parvati Darshan
@@ -5667,7 +5667,7 @@ Super built-up  Area,Ready To Move,3 BHK,,1340,3,1,66,Yerawada
 Super built-up  Area,Ready To Move,2 BHK,Patri M,937,2,1,35,Alandi Road
 Plot  Area,Ready To Move,7 Bedroom,,1500,6,0,210,Ambegaon Budruk
 Super built-up  Area,Ready To Move,1 BHK,Brine J,750,1,1,52.5,Anandnagar
-Built-up  Area,Ready To Move,5 Bedroom,,45Sq. Yards,6,3,400,Aundh
+Built-up  Area,Ready To Move,5 Bedroom,,45,6,3,400,Aundh
 Built-up  Area,Ready To Move,3 BHK,Koillph,1475,3,3,78,Aundh Road
 Plot  Area,Ready To Move,4 Bedroom,,2230,4,1,130,Balaji Nagar
 Plot  Area,Ready To Move,4 Bedroom,,2200,5,1,100,Baner
@@ -5707,7 +5707,7 @@ Super built-up  Area,Ready To Move,2 BHK,Inenshe,850,1,1,25,Kasba Peth
 Super built-up  Area,Ready To Move,2 BHK,Koestpt,1200,2,1,60,Katraj
 Built-up  Area,18-Dec,4 BHK,,3160,4,3,206,Khadaki
 Super built-up  Area,Ready To Move,3 BHK,Keers S,1769,3,3,96.87,Khadki
-Plot  Area,Ready To Move,4 Bedroom,Ceeury ,133.3Sq. Yards,3,2,160,Kharadi
+Plot  Area,Ready To Move,4 Bedroom,Ceeury ,133.3,3,2,160,Kharadi
 Carpet  Area,18-Dec,4 BHK,Rosha I,1554.3,4,1,131,Kondhwa
 Super built-up  Area,Ready To Move,2 BHK,,1243,2,2,46,Kondhwa Budruk
 Plot  Area,18-Apr,4 Bedroom,,4920,5,2,1150,Kondhwa Khurd
@@ -5975,7 +5975,7 @@ Super built-up  Area,Ready To Move,2 BHK,Nillsre,1301,2,2,65,Dhankawadi
 Super built-up  Area,19-Dec,1 BHK,Sabixtt,658,1,1,34,Dhayari Phata
 Plot  Area,Ready To Move,3 Bedroom,,1350,3,1,250,Dhole Patil Road
 Super built-up  Area,Ready To Move,3 BHK,Toindls,2500,3,2,280,Erandwane
-Built-up  Area,Ready To Move,1 BHK,Opamaan,78.03Sq. Meter,1,1,63,Fatima Nagar
+Built-up  Area,Ready To Move,1 BHK,Opamaan,78.03,1,1,63,Fatima Nagar
 Built-up  Area,Ready To Move,3 BHK,Vailsaf,1208.51,3,2,42,Fergusson College Road
 Super built-up  Area,Ready To Move,2 BHK,GrrvaGr,1133,2,2,38.41,Ganesh Peth
 Super built-up  Area,Ready To Move,3 BHK,LendaVi,1760,2,1,116,Ganeshkhind
@@ -6267,7 +6267,7 @@ Super built-up  Area,Ready To Move,3 BHK,HMtesle,1656,3,2,90,Fatima Nagar
 Super built-up  Area,Ready To Move,3 BHK,Roiti A,1900,3,3,155,Fergusson College Road
 Built-up  Area,Ready To Move,3 BHK,DNeremo,1910,3,2,142,Ganesh Peth
 Super built-up  Area,Ready To Move,2 BHK,,1003,2,1,43,Ganeshkhind
-Built-up  Area,Ready To Move,2 BHK,,122Sq. Yards,2,0,48,Ghorpade Peth
+Built-up  Area,Ready To Move,2 BHK,,122,2,0,48,Ghorpade Peth
 Super built-up  Area,Ready To Move,3 BHK,Sonviik,1495,2,,67,Ghorpadi
 Super built-up  Area,19-Dec,3 BHK,DSity S,2172,3,2,76.02,Gokhale Nagar
 Plot  Area,Ready To Move,4 Bedroom,,2400,4,2,358,Gultekdi
@@ -6302,7 +6302,7 @@ Super built-up  Area,Ready To Move,2 BHK,,1035,2,1,39.33,Mundhawa
 Built-up  Area,Ready To Move,4 Bedroom,Saacesa,2600,4,,98,Nagar Road
 Built-up  Area,Ready To Move,3 BHK,,1667,3,2,92,Nana Peth
 Super built-up  Area,Ready To Move,2 BHK,Bhmesy ,934,2,2,55,Narayan Peth
-Built-up  Area,Ready To Move,3 BHK,,84.53Sq. Meter,3,1,69.34,Narayangaon
+Built-up  Area,Ready To Move,3 BHK,,84.53,3,1,69.34,Narayangaon
 Super built-up  Area,Ready To Move,3 BHK,Neisei ,1620,2,1,76,Navi Peth
 Super built-up  Area,17-Jun,2 BHK,GMown E,1070,2,1,47,Padmavati
 Built-up  Area,Ready To Move,5 Bedroom,,3600,5,3,180,Parvati Darshan
@@ -6551,7 +6551,7 @@ Super built-up  Area,Ready To Move,2 BHK,Maodser,1000,2,0,48,Dhankawadi
 Plot  Area,Ready To Move,1 Bedroom,,3820,1,1,306,Dhayari Phata
 Super built-up  Area,Ready To Move,5 BHK,,2000,4,2,145,Dhole Patil Road
 Super built-up  Area,Ready To Move,2 BHK,GRlpank,1215,2,2,59,Erandwane
-Plot  Area,Ready To Move,5 Bedroom,,24Guntha,6,2,550,Fatima Nagar
+Plot  Area,Ready To Move,5 Bedroom,,24,6,2,550,Fatima Nagar
 Super built-up  Area,Ready To Move,3 BHK,,1330,3,3,73.5,Fergusson College Road
 Super built-up  Area,18-Aug,2 BHK,Prllsan,1178,2,1,75,Ganesh Peth
 Plot  Area,18-Aug,4 Bedroom,ValleCi,1500,4,3,192,Ganeshkhind
@@ -6591,7 +6591,7 @@ Super built-up  Area,21-Dec,2 BHK,KonteiT,1140,2,1,70.93,Nagar Road
 Super built-up  Area,18-Oct,2 BHK,,1145,2,2,58.4,Nana Peth
 Super built-up  Area,Ready To Move,3 BHK,,1862,3,3,120,Narayan Peth
 Super built-up  Area,Ready To Move,2 BHK,,947,2,2,43,Narayangaon
-Built-up  Area,Ready To Move,4 BHK,,697Sq. Meter,4,2,211,Navi Peth
+Built-up  Area,Ready To Move,4 BHK,,697,4,2,211,Navi Peth
 Plot  Area,Ready To Move,3 Bedroom,,700,3,2,195,Padmavati
 Super built-up  Area,Ready To Move,2 BHK,,1120,2,2,40,Parvati Darshan
 Built-up  Area,Ready To Move,3 BHK,,2700,3,3,200,Pashan
@@ -6952,7 +6952,7 @@ Super built-up  Area,18-Jan,2 BHK,Puachal,1232,2,1,74,Kalyani Nagar
 Super built-up  Area,Ready To Move,2 BHK,,766,2,2,28,Karve Nagar
 Plot  Area,Ready To Move,5 Bedroom,,1200,5,0,180,Karve Road
 Super built-up  Area,21-Dec,1 BHK,PrarePa,525,1,1,27,Kasba Peth
-Super built-up  Area,18-Aug,3 BHK,Sosisic,142.61Sq. Meter,3,1,109,Katraj
+Super built-up  Area,18-Aug,3 BHK,Sosisic,142.61,3,1,109,Katraj
 Built-up  Area,Ready To Move,3 BHK,,1452,2,1,41,Khadaki
 Super built-up  Area,Ready To Move,3 BHK,Aharlve,1254,2,1,65,Khadki
 Built-up  Area,Ready To Move,5 Bedroom,,3600,5,0,110,Kharadi
@@ -7247,7 +7247,7 @@ Built-up  Area,Ready To Move,4 BHK,,1200,4,1,140,Kharadi
 Super built-up  Area,Ready To Move,2 BHK,Prrtht ,883,2,1,37,Kondhwa
 Super built-up  Area,Ready To Move,2 BHK,,1050,2,2,55.5,Kondhwa Budruk
 Super built-up  Area,21-Mar,2 BHK,Goues A,1390,2,2,70.21,Kondhwa Khurd
-Built-up  Area,Ready To Move,2 BHK,,132Sq. Yards,2,3,46,Koregaon Park
+Built-up  Area,Ready To Move,2 BHK,,132,2,3,46,Koregaon Park
 Super built-up  Area,Ready To Move,3 BHK,AriosPa,1280,2,2,69,Kothrud
 Plot  Area,Ready To Move,7 Bedroom,,1280,5,3,150,Law College Road
 Super built-up  Area,Ready To Move,3 BHK,PuziaVe,1614,3,2,95,Laxmi Road
@@ -7519,7 +7519,7 @@ Super built-up  Area,20-Dec,3 BHK,,2665,3,1,350,Ghorpade Peth
 Built-up  Area,Ready To Move,4 BHK,,2130,4,0,120,Ghorpadi
 Super built-up  Area,Ready To Move,3 BHK,,1749,3,2,120,Gokhale Nagar
 Super built-up  Area,18-Jun,2 BHK,,1260,2,1,108,Gultekdi
-Super built-up  Area,Ready To Move,3 BHK,,1100Sq. Meter,2,1,48,Guruwar peth
+Super built-up  Area,Ready To Move,3 BHK,,1100,2,1,48,Guruwar peth
 Super built-up  Area,Ready To Move,2 BHK,NCierar,1170,2,2,120,Hadapsar
 Super built-up  Area,Ready To Move,3 BHK,Ajens G,1670,3,2,75,Hadapsar Industrial Estate
 Super built-up  Area,Ready To Move,3 BHK,Samittv,2264,3,2,168,Hingne Khurd
@@ -8272,7 +8272,7 @@ Super built-up  Area,Ready To Move,2 BHK,Inaadd ,1340,2,2,72,Budhwar Peth
 Super built-up  Area,Ready To Move,2 BHK,DSvar S,1175,2,1,29.38,Bund Garden Road
 Plot  Area,Ready To Move,4 Bedroom,,3569,4,1,600,Camp
 Super built-up  Area,Ready To Move,2 BHK,,1240,2,2,43.1,Chandan Nagar
-Built-up  Area,Ready To Move,3 BHK,,151.11Sq. Yards,2,0,150,Dapodi
+Built-up  Area,Ready To Move,3 BHK,,151.11,2,0,150,Dapodi
 Super built-up  Area,Ready To Move,3 BHK,DSgmax ,1470,2,1,44.1,Deccan Gymkhana
 Super built-up  Area,21-Dec,1 BHK,PrarePa,525,,,29.25,Dehu Road
 Super built-up  Area,Ready To Move,3 BHK,Eladero,1680,3,2,117,Dhankawadi
@@ -9518,7 +9518,7 @@ Super built-up  Area,Ready To Move,2 BHK,Soowsa ,975,2,1,50,Bibvewadi
 Built-up  Area,Ready To Move,2 BHK,Foinade,1050,2,1,51,Bopodi
 Plot  Area,Ready To Move,9 Bedroom,,1200,9,0,350,Budhwar Peth
 Super built-up  Area,Ready To Move,3 BHK,,1903,3,2,165,Bund Garden Road
-Built-up  Area,Ready To Move,3 Bedroom,Prood G,2940Sq. Yards,3,1,232,Camp
+Built-up  Area,Ready To Move,3 Bedroom,Prood G,2940,3,1,232,Camp
 Super built-up  Area,Ready To Move,2 BHK,,1200,2,2,38,Chandan Nagar
 Super built-up  Area,Ready To Move,4 BHK,Sohea A,2996,4,3,200,Dapodi
 Built-up  Area,Ready To Move,4 BHK,,3400,4,,200,Deccan Gymkhana
@@ -9733,7 +9733,7 @@ Super built-up  Area,Ready To Move,3 BHK,,1655,2,1,70.5,Hadapsar Industrial Esta
 Super built-up  Area,22-Jun,2 BHK,,900,2,2,41,Hingne Khurd
 Super built-up  Area,Ready To Move,3 BHK,,1600,3,3,69,Jangali Maharaj Road
 Built-up  Area,Ready To Move,2 BHK,,1163,2,2,68,Kalyani Nagar
-Carpet  Area,Ready To Move,1 BHK,KHatsFl,45.06Sq. Meter,2,1,18,Karve Nagar
+Carpet  Area,Ready To Move,1 BHK,KHatsFl,45.06,2,1,18,Karve Nagar
 Super built-up  Area,Ready To Move,3 BHK,ChionCo,1654,3,,97.8,Karve Road
 Super built-up  Area,18-Apr,1 BHK,Asarkia,799 - 803,1,0,33.645,Kasba Peth
 Built-up  Area,Ready To Move,4 Bedroom,,2100,3,1,1000,Katraj
@@ -10490,7 +10490,7 @@ Super built-up  Area,Ready To Move,2 BHK,,1150,2,2,52,Erandwane
 Plot  Area,Ready To Move,2 Bedroom,,1.25Acres,2,2,200,Fatima Nagar
 Built-up  Area,Ready To Move,3 Bedroom,,2690,3,2,295,Fergusson College Road
 Super built-up  Area,Ready To Move,3 BHK,,1200,2,2,42,Ganesh Peth
-Super built-up  Area,Ready To Move,2 BHK,,86.72Sq. Meter,2,2,40,Ganeshkhind
+Super built-up  Area,Ready To Move,2 BHK,,86.72,2,2,40,Ganeshkhind
 Super built-up  Area,Ready To Move,3 BHK,Soeurri,2735,4,2,340,Ghorpade Peth
 Built-up  Area,Ready To Move,2 BHK,,950,2,0,65,Ghorpadi
 Built-up  Area,Ready To Move,3 BHK,,1491,3,3,40.5,Gokhale Nagar
@@ -11319,7 +11319,7 @@ Super built-up  Area,18-Aug,2 BHK,Puachal,1232,2,1,69.61,Somwar Peth
 Super built-up  Area,Ready To Move,2 BHK,Prmesi ,900,2,1,40,Swargate
 Super built-up  Area,Ready To Move,1 BHK,Soe 2as,740,1,1,23.65,Tilak Road
 Super built-up  Area,18-Dec,3 BHK,Mahosya,1920,3,2,134,Uruli Devachi
-Plot  Area,Ready To Move,1 Bedroom,,38Guntha,1,0,170,Vadgaon Budruk
+Plot  Area,Ready To Move,1 Bedroom,,38,1,0,170,Vadgaon Budruk
 Super built-up  Area,Ready To Move,3 BHK,SNity S,1550,3,2,96,Wadgaon Sheri
 Super built-up  Area,Ready To Move,3 BHK,MyhtsHe,1588,2,3,90,Viman Nagar
 Built-up  Area,Ready To Move,3 Bedroom,,2300,4,1,240,Vishrant Wadi
@@ -12185,7 +12185,7 @@ Super built-up  Area,Ready To Move,3 BHK,Somumys,1790,3,2,105,Tilak Road
 Super built-up  Area,Ready To Move,2 BHK,SVovelm,1125,2,2,75,Uruli Devachi
 Super built-up  Area,18-Dec,3 BHK,Exitym ,1783 - 1878,3,0,84.205,Vadgaon Budruk
 Super built-up  Area,Ready To Move,2 BHK,Spsic C,1100,2,1,50,Wadgaon Sheri
-Built-up  Area,Ready To Move,2 BHK,,120Sq. Yards,2,1,51,Viman Nagar
+Built-up  Area,Ready To Move,2 BHK,,120,2,1,51,Viman Nagar
 Built-up  Area,Ready To Move,2 BHK,Shidei ,1105,2,2,57,Vishrant Wadi
 Super built-up  Area,Ready To Move,2 BHK,Juaxyan,1110,2,2,46.5,Wagholi
 Super built-up  Area,Ready To Move,1 BHK,Tavenew,708,1,1,41,Wakadewadi
@@ -12251,7 +12251,7 @@ Built-up  Area,Ready To Move,2 BHK,Vaaveeh,1300,2,3,90,Market yard
 Super built-up  Area,Ready To Move,3 BHK,SaireSa,1891,3,1,110,Model colony
 Super built-up  Area,Ready To Move,3 BHK,Soncy R,1735,3,3,78,Mukund Nagar
 Super built-up  Area,Ready To Move,3 BHK,Prityel,1075,2,1,33,Mundhawa
-Built-up  Area,Ready To Move,5 BHK,,24Sq. Meter,5,0,75,Nagar Road
+Built-up  Area,Ready To Move,5 BHK,,24,5,0,75,Nagar Road
 Built-up  Area,Ready To Move,7 BHK,,2040,4,3,123,Nana Peth
 Super built-up  Area,Ready To Move,3 BHK,Aklia R,1590,3,2,57,Narayan Peth
 Plot  Area,Ready To Move,5 Bedroom,,1600,5,2,140,Narayangaon
@@ -12559,7 +12559,7 @@ Super built-up  Area,Ready To Move,2 BHK,PrityTr,1153,2,2,56.55,Salunke Vihar
 Super built-up  Area,Ready To Move,3 BHK,SoisoCa,2087.01,4,2,160,Sasson Road
 Super built-up  Area,Ready To Move,2 BHK,MancyRe,1200,2,1,47,Satara Road
 Super built-up  Area,Ready To Move,3 BHK,SrisePo,1844,3,1,89,Senapati Bapat Road
-Super built-up  Area,18-Dec,3 BHK,Sosisic,142.84Sq. Meter,3,1,110,Shaniwar Peth
+Super built-up  Area,18-Dec,3 BHK,Sosisic,142.84,3,1,110,Shaniwar Peth
 Super built-up  Area,Ready To Move,2 BHK,Dhalsh ,1215,2,1,43.75,Shivaji Nagar
 Super built-up  Area,18-Jul,2 BHK,,1194,2,1,57,Shukrawar Peth
 Built-up  Area,Ready To Move,2 BHK,VaireSo,1220,2,2,52,Sinhagad Road
@@ -12651,7 +12651,7 @@ Super built-up  Area,18-Apr,2 BHK,,1125,2,1,28.13,Rasta Peth
 Super built-up  Area,Ready To Move,2 BHK,,1140,2,2,50.66,Raviwar Peth
 Plot  Area,Ready To Move,4 Bedroom,Adeatlm,3150,4,2,500,Sadashiv Peth
 Super built-up  Area,Ready To Move,2 BHK,Viuliap,1315,2,3,74,Sahakar Nagar
-Plot  Area,Ready To Move,2 Bedroom,AWharan,300Sq. Yards,2,2,150,Salunke Vihar
+Plot  Area,Ready To Move,2 Bedroom,AWharan,300,2,2,150,Salunke Vihar
 Super built-up  Area,Ready To Move,3 BHK,AkonyHa,1435,2,2,115,Sasson Road
 Super built-up  Area,Ready To Move,2 BHK,,1092,2,2,44,Satara Road
 Super built-up  Area,18-May,2 BHK,Alestrb,1314,2,3,80,Senapati Bapat Road

@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Basic -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- Mobile Metas -->
+    <meta
+      name="viewport"
+      content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+
+    <!-- Site Metas -->
+    <title>Welcome - Property Price Predictor</title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
+    <!-- Site Icons -->
+    <link
+      rel="shortcut icon"
+      href="{{ url_for('static',filename='images/favicon.ico') }}"
+      type="image/x-icon"
+    />
+    <link
+      rel="apple-touch-icon"
+      href="{{ url_for('static',filename='images/apple-touch-icon.png') }}"
+    />
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static',filename='css/bootstrap.min.css') }}"
+    />
+    <!-- Site CSS -->
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static',filename='style.css') }}"
+    />
+    <!-- Colors CSS -->
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static',filename='css/colors.css') }}"
+    />
+    <!-- ALL VERSION CSS -->
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static',filename='css/versions.css') }}"
+    />
+    <!-- Responsive CSS -->
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static',filename='css/responsive.css') }}"
+    />
+    <!-- Custom CSS -->
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static',filename='css/custom.css') }}"
+    />
+  </head>
+  <body class="realestate_version">
+    <!-- LOADER -->
+    <div id="preloader">
+      <span class="loader"><span class="loader-inner"></span></span>
+    </div>
+    <!-- end loader -->
+    <!-- END LOADER -->
+
+    <header class="header header_style_01">
+      <nav class="megamenu navbar navbar-default">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button
+              type="button"
+              class="navbar-toggle collapsed"
+              data-toggle="collapse"
+              data-target="#navbar"
+              aria-expanded="false"
+              aria-controls="navbar"
+            >
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/"
+              ><img
+                src="{{ url_for('static',filename='images/logos/logo.png') }}"
+                alt="image"
+            /></a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a class="active" href="/">Home</a></li>
+              <li><a href="/bangalore">Bangalore</a></li>
+              <li><a href="/pune">Pune</a></li>
+              <li class="social-links">
+                <a href="#"><i class="fa fa-twitter global-radius"></i></a>
+              </li>
+              <li class="social-links">
+                <a href="#"><i class="fa fa-facebook global-radius"></i></a>
+              </li>
+              <li class="social-links">
+                <a href="#"><i class="fa fa-linkedin global-radius"></i></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <ul class="slideshow">
+      <li>
+        <span>Summer</span>
+      </li>
+      <li>
+        <span>Fall</span>
+      </li>
+      <li>
+        <span>Winter</span>
+      </li>
+      <li>
+        <span>Spring</span>
+      </li>
+    </ul>
+
+    <div class="parallax first-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 wow slideInLeft hidden-xs hidden-sm">
+            <div class="contact_form">
+              <h3 style="text-align: center">
+                <i class="fa fa-search grd1 global-radius"></i> LOCATION
+              </h3>
+              <fieldset class="row-fluid">
+                <div
+                  class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center"
+                >
+                  <a
+                    href="/bangalore"
+                    class="btn btn-light btn-radius btn-brd grd1 btn-block"
+                    style="
+                      padding-top: 10px;
+                      padding-bottom: 10px;
+                      border-radius: 10px;
+                    "
+                    >Bangalore</a
+                  >
+                </div>
+                <br />
+                <hr />
+                <div
+                  class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center"
+                >
+                  <a
+                    href="/pune"
+                    class="btn btn-light btn-radius btn-brd grd1 btn-block"
+                    style="
+                      padding-top: 10px;
+                      padding-bottom: 10px;
+                      border-radius: 10px;
+                    "
+                    >Pune</a
+                  >
+                </div>
+              </fieldset>
+            </div>
+          </div>
+          <div class="col-md-6 col-sm-12">
+            <div class="big-tagline clearfix">
+              <h2>Know the Price before Investing</h2>
+              <p class="lead">
+                With Property price Predictor it helps to know the current
+                average price of Property by just giving littile info of your
+                dream.
+              </p>
+            </div>
+          </div>
+        </div>
+        <!-- end row -->
+      </div>
+      <!-- end container -->
+    </div>
+    <!-- end section -->
+
+    <div class="about-box">
+      <div class="container">
+        <div class="row">
+          <div class="top-feature owl-carousel owl-theme">
+            <div class="item">
+              <div class="single-feature">
+                <div class="icon">
+                  <img
+                    src="{{ url_for('static',filename='uploads/icon-01.png') }}"
+                    class="img-responsive"
+                    alt=""
+                  />
+                </div>
+                <h4><a href="#">Full Furnished</a></h4>
+                <p>
+                  Mauris eu porta orci. In at erat enim. Suspendisse felis erat,
+                  volutpat at nisl sit amet, maximus molestie nisi.
+                </p>
+              </div>
+            </div>
+            <div class="item">
+              <div class="single-feature">
+                <div class="icon">
+                  <img
+                    src="{{ url_for('static',filename='uploads/icon-02.png') }}"
+                    class="img-responsive"
+                    alt=""
+                  />
+                </div>
+                <h4><a href="#">Living Inside a Nature</a></h4>
+                <p>
+                  Mauris eu porta orci. In at erat enim. Suspendisse felis erat,
+                  volutpat at nisl sit amet, maximus molestie nisi.
+                </p>
+              </div>
+            </div>
+            <div class="item">
+              <div class="single-feature">
+                <div class="icon">
+                  <img
+                    src="{{ url_for('static',filename='uploads/icon-03.png') }}"
+                    class="img-responsive"
+                    alt=""
+                  />
+                </div>
+                <h4><a href="#">Luxurious Fittings</a></h4>
+                <p>
+                  Mauris eu porta orci. In at erat enim. Suspendisse felis erat,
+                  volutpat at nisl sit amet, maximus molestie nisi.
+                </p>
+              </div>
+            </div>
+            <div class="item">
+              <div class="single-feature">
+                <div class="icon">
+                  <img
+                    src="{{ url_for('static',filename='uploads/icon-04.png') }}"
+                    class="img-responsive"
+                    alt=""
+                  />
+                </div>
+                <h4><a href="#">Non Stop Security</a></h4>
+                <p>
+                  Lorem Is a dummy Mauris eu porta orci. In at erat enim.
+                  Suspendisse felis erat, volutpat at nisl sit amet, maximus
+                  molestie nisi.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <hr class="hr1" />
+
+        <div class="row">
+          <div class="col-md-6">
+            <div
+              class="post-media wow fadeIn"
+              style="visibility: visible; animation-name: fadeIn"
+            >
+              <img
+                src="{{ url_for('static',filename='uploads/about_bg.jpg') }}"
+                alt=""
+                class="img-responsive"
+              />
+            </div>
+            <!-- end media -->
+          </div>
+          <div class="col-md-6">
+            <div class="message-box right-ab">
+              <h4>Know About the Price</h4>
+              <h2>Welcome to Property Price Predictor</h2>
+              <p>
+                Property price predictor websites that focus on Bangalore and Pune are designed to help users estimate the market value of
+                properties in these specific regions. These websites typically use data from various sources such as recent sales data,
+                neighborhood trends, and property characteristics to provide users with an estimated price range for a property.
+              </p>
+              <p>
+                Bangalore and Pune are both major cities in India, and are home
+                to a large number of properties across various price ranges.
+                These cities have experienced significant growth in recent
+                years, which has resulted in an increase in property values.
+                Property price predictor websites that focus on these cities can
+                help buyers and sellers make informed decisions by providing
+                them with an accurate and reliable estimate of the market value
+                of a property.
+                Overall, property price predictor websites that focus
+                on Bangalore and Pune can be a valuable resource for anyone
+                looking to buy or sell a property in these regions.
+              </p>
+              <a href="#" class="btn btn-light btn-radius grd1 btn-brd">
+                Read More
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="testimonials" class="section lb">
+      <div class="container">
+        <div class="section-title row text-center">
+          <div class="col-md-8 col-md-offset-2">
+            <h3>Happy Customers</h3>
+            <p class="lead">
+              Property price predictor the one and only helper to find the rates.
+            </p>
+          </div>
+          <!-- end col -->
+        </div>
+        <!-- end title -->
+
+        <div class="row">
+          <div class="col-md-12 col-sm-12">
+            <div class="testi-carousel owl-carousel owl-theme">
+              <div class="testimonial clearfix">
+                <div class="desc">
+                  <h3>
+                    <i class="fa fa-quote-left"></i> Wonderful Support!
+                    <i class="fa fa-quote-right"></i>
+                  </h3>
+                  <p class="lead">
+                    They have got my project on time with the competition with a
+                    sed highly skilled, and experienced & professional team.
+                  </p>
+                </div>
+                <div class="testi-meta">
+                  <img
+                    src="{{ url_for('static',filename='uploads/testi_01.png') }}"
+                    alt=""
+                    class="img-responsive alignleft"
+                  />
+                  <h4>James Fernando <small>- Manager of Racer</small></h4>
+                </div>
+                <!-- end testi-meta -->
+              </div>
+              <!-- end testimonial -->
+
+              <div class="testimonial clearfix">
+                <div class="desc">
+                  <h3>
+                    <i class="fa fa-quote-left"></i> Awesome Services!
+                    <i class="fa fa-quote-right"></i>
+                  </h3>
+                  <p class="lead">
+                    Explain to you how all this mistaken idea of denouncing
+                    pleasure and praising pain was born and I will give you
+                    completed.
+                  </p>
+                </div>
+                <div class="testi-meta">
+                  <img
+                    src="{{ url_for('static',filename='uploads/testi_02.png') }}"
+                    alt=""
+                    class="img-responsive alignleft"
+                  />
+                  <h4>Jacques Philips <small>- Designer</small></h4>
+                </div>
+                <!-- end testi-meta -->
+              </div>
+              <!-- end testimonial -->
+
+              <div class="testimonial clearfix">
+                <div class="desc">
+                  <h3>
+                    <i class="fa fa-quote-left"></i> Great & Talented Team!
+                    <i class="fa fa-quote-right"></i>
+                  </h3>
+                  <p class="lead">
+                    The master-builder of human happines no one rejects,
+                    dislikes avoids pleasure itself, because it is very pursue
+                    pleasure.
+                  </p>
+                </div>
+                <div class="testi-meta">
+                  <img
+                    src="{{ url_for('static',filename='uploads/testi_03.png') }}"
+                    alt=""
+                    class="img-responsive alignleft"
+                  />
+                  <h4>Venanda Mercy <small>- Newyork City</small></h4>
+                </div>
+                <!-- end testi-meta -->
+              </div>
+              <!-- end testimonial -->
+              <div class="testimonial clearfix">
+                <div class="desc">
+                  <h3>
+                    <i class="fa fa-quote-left"></i> Wonderful Support!
+                    <i class="fa fa-quote-right"></i>
+                  </h3>
+                  <p class="lead">
+                    They have got my project on time with the competition with a
+                    sed highly skilled, and experienced & professional team.
+                  </p>
+                </div>
+                <div class="testi-meta">
+                  <img
+                    src="{{ url_for('static',filename='uploads/testi_01.png') }}"
+                    alt=""
+                    class="img-responsive alignleft"
+                  />
+                  <h4>James Fernando <small>- Manager of Racer</small></h4>
+                </div>
+                <!-- end testi-meta -->
+              </div>
+              <!-- end testimonial -->
+
+              <div class="testimonial clearfix">
+                <div class="desc">
+                  <h3>
+                    <i class="fa fa-quote-left"></i> Awesome Services!
+                    <i class="fa fa-quote-right"></i>
+                  </h3>
+                  <p class="lead">
+                    Explain to you how all this mistaken idea of denouncing
+                    pleasure and praising pain was born and I will give you
+                    completed.
+                  </p>
+                </div>
+                <div class="testi-meta">
+                  <img
+                    src="{{ url_for('static',filename='uploads/testi_02.png') }}"
+                    alt=""
+                    class="img-responsive alignleft"
+                  />
+                  <h4>Jacques Philips <small>- Designer</small></h4>
+                </div>
+                <!-- end testi-meta -->
+              </div>
+              <!-- end testimonial -->
+
+              <div class="testimonial clearfix">
+                <div class="desc">
+                  <h3>
+                    <i class="fa fa-quote-left"></i> Great & Talented Team!
+                    <i class="fa fa-quote-right"></i>
+                  </h3>
+                  <p class="lead">
+                    The master-builder of human happines no one rejects,
+                    dislikes avoids pleasure itself, because it is very pursue
+                    pleasure.
+                  </p>
+                </div>
+                <div class="testi-meta">
+                  <img
+                    src="{{ url_for('static',filename='uploads/testi_03.png') }}"
+                    alt=""
+                    class="img-responsive alignleft"
+                  />
+                  <h4>Venanda Mercy <small>- Newyork City</small></h4>
+                </div>
+                <!-- end testi-meta -->
+              </div>
+              <!-- end testimonial -->
+            </div>
+            <!-- end carousel -->
+          </div>
+          <!-- end col -->
+        </div>
+        <!-- end row -->
+      </div>
+      <!-- end container -->
+    </div>
+    <!-- end section -->
+
+    <a href="#" id="scroll-to-top" class="dmtop global-radius"
+      ><i class="fa fa-angle-up"></i
+    ></a>
+
+    <!-- ALL JS FILES -->
+    <script src="{{ url_for('static',filename='js/all.js') }}"></script>
+    <!-- ALL PLUGINS -->
+    <script src="{{ url_for('static',filename='js/custom.js') }}"></script>
+  </body>
+</html>

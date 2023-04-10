@@ -41,7 +41,7 @@
     </div><!-- end loader -->
     <!-- END LOADER -->
 
-    <header class="header header_style_01">
+    <header class="header header_style_01" style="background-color: rgba(239, 239, 239, 0.919);">
         <nav class="megamenu navbar navbar-default">
             <div class="container-fluid">
                 <div class="navbar-header">
@@ -51,7 +51,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="/"><img src="{{ url_for('static',filename='images/logos/logo.png') }}" alt="image"></a>
+                    <a class="navbar-brand" href="/"><img src="{{ url_for('static',filename='images/10.png') }}" alt="image"></a>
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
@@ -87,8 +87,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 wow slideInLeft hidden-xs hidden-sm">
-                    <div class="contact_form">
-                        <h3><i class="fa fa-search grd1 global-radius"></i> Pune Price Predictor</h3>
+                    <div class="contact_form" style="background-color: rgba(239, 239, 239, 0.919); border-radius: 12px;">
+                        <h3><img src="{{ url_for('static',filename='images/1.png') }}" alt="image"><b> Pune Price Predictor</b></h3>
                         <form id="contactform1" class="row" name="contactform" method="post">
                             <fieldset class="row-fluid">
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
@@ -112,7 +112,7 @@
                                     <button class="btn btn-light btn-radius btn-brd grd1 btn-block" onclick="send_Data()">Predict Price</button>
                                 </div>
                                 <div class="col-md-12" style="text-align: center">
-                                    <br><h3><span id= "prediction"></span></h3>
+                                    <br><h3><img src="{{ url_for('static',filename='images/2.png') }}" alt="image"><b><span id= "prediction"></span></b></span></h3>
                                 </div>
                             </fieldset>
                         </form>
@@ -326,7 +326,7 @@
   
           xhr.onreadystatechange = function(){
             if(xhr.readyState == XMLHttpRequest.DONE){
-              document.getElementById('prediction').innerHTML="Prediction: Rs."+xhr.responseText;
+              document.getElementById('prediction').innerHTML="  Rs."+xhr.responseText;
             }
           };
   

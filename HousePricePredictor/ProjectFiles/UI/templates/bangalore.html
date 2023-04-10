@@ -93,7 +93,7 @@
                             <fieldset class="row-fluid">
                                 <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                                     <label class="sr-only"><b>Select Location:</b></label>
-                                    <select class="selectpicker form-control" name="location" id="Location" required="1" data-style="btn-white">
+                                    <select class="selectpicker form-control" name="location" id="Location" required="1">
                                         {% for location in locations %}
                                         <option value="{{ location }}">{{ location }}</option>
                                         {% endfor %}
@@ -286,10 +286,7 @@
 
     <a href="/" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
 
-    <!-- ALL JS FILES -->
-    <script src="{{ url_for('static',filename='js/all.js') }}"></script>
-    <!-- ALL PLUGINS -->
-    <script src="{{ url_for('static',filename='js/custom.js') }}"></script> 
+
 
     <script>
         function form_handler(event){
@@ -304,7 +301,7 @@
   
           var xhr=new XMLHttpRequest();
           
-          xhr.open('POST','/predict',true);
+          xhr.open('POST','/bangalore_predict',true);
   
           document.getElementById('prediction').innerHTML = "Wait Predicting Price...."; //Shows the message when the server is slow
   
@@ -319,5 +316,13 @@
         }
       </script>
 
+
+
+    <!-- ALL JS FILES -->
+    <script src="{{ url_for('static',filename='js/all.js') }}"></script>
+    <!-- ALL PLUGINS -->
+    <script src="{{ url_for('static',filename='js/custom.js') }}"></script> 
+
+    
 </body>
 </html>

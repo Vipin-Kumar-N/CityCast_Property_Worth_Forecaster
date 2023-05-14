@@ -33,6 +33,7 @@ def predict():
     print(locations, bhk, bath, totalsqft)
     dat = pd.DataFrame([[locations, totalsqft, bath, bhk]], columns=['location', 'total_sqft', 'bath', 'bhk'])
     prediction = pipe.predict(dat)[0] * 1e5
+    print(prediction, 2)
 
     return str(np.round(prediction, 2))
 
@@ -53,6 +54,7 @@ def bangalore_predict():
     print(locations, bhk, bath, totalsqft)
     dat = pd.DataFrame([[locations, totalsqft, bath, bhk]], columns=['location', 'total_sqft', 'bath', 'bhk'])
     bangalore_prediction = bangalorePipe.predict(dat)[0] * 1e5
+    print(bangalore_prediction, 2)
 
     return str(np.round(bangalore_prediction, 2))
 

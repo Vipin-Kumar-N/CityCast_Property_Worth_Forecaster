@@ -1,20 +1,7 @@
-# Price_Predictor
-Welcome to Property Price Predictor
-       
-                          Property price predictor websites that focus on Bangalore and Pune are designed to help users estimate the market value of
-                          properties in these specific regions. These websites typically use data from various sources such as recent sales data,
-                          neighborhood trends, and property characteristics to provide users with an estimated price range for a property.
-                        
-                       
-                          Bangalore and Pune are both major cities in India, and are home
-                          to a large number of properties across various price ranges.
-                          These cities have experienced significant growth in recent
-                          years, which has resulted in an increase in property values.
-                          Property price predictor websites that focus on these cities can
-                          help buyers and sellers make informed decisions by providing
-                          them with an accurate and reliable estimate of the market value
-                          of a property.
-                          Overall, property price predictor websites that focus
-                          on Bangalore and Pune can be a valuable resource for anyone
-                          looking to buy or sell a property in these regions.
-                       
+# The City Cast
+Welcome to The City Cast
+The City Cast - Property worth forecaster project aims to develop a machine learning model which integrates Data Science and Web Development that can accurately predict the sale prices of residential properties in a given area. Housing prices fluctuate on a daily basis and are sometimes exaggerated rather than based on worth. The major focus of this project is on predicting home prices using genuine factors. Here, we intend to base an evaluation on every basic criterion that is taken into account when establishing the pricing. The project will leverage various data sources, including property listings, local amenities, and real estate market trends, to develop an accurate and reliable price prediction model. The goal of this project is to learn Python and get experience in Data Analytics, Machine Learning, and AI.
+The project will begin with data collection and preprocessing, which will involve scraping property listing websites and gathering data on various features such as the property size, number of bedrooms, location, and nearby amenities. The data will then be cleaned and transformed to ensure it is suitable for analysis.
+Next, the project will use various machine learning algorithms, including regression models and neural networks, to develop a price prediction model. The model will be trained on a subset of the data and validated to ensure its accuracy and generalizability.
+Once the model is developed and validated, it will be integrated into a web application that allows users to input property details and receive an estimated sale price. The web application can also be deployed using cloud services, such as AWS, to ensure scalability and reliability.
+The City Cast - Property worth forecaster project has the potential to be used by real estate agents, property developers, and home buyers to gain insights into the property market and make informed decisions about buying and selling properties. It can also be used by financial institutions, government agencies, and researchers to analyze trends in the real estate market and make data-driven decisions.
